@@ -10,5 +10,4 @@ while ($count <= 20) {
     echo $count ." ";
     $count += 2;
 }
-
 ?>
